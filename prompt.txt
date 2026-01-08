@@ -1,0 +1,8 @@
+
+here are video chunks data containing chunk id, start time, end time , text at that time, video number, embedding :
+{"start":{"4341":69.6,"13399":568.56,"8223":155.92,"13386":537.76,"5892":2378.7},"end":{"4341":74.92,"13399":569.56,"8223":158.52,"13386":539.08,"5892":2379.7},"text":{"4341":"learn about, let me know.","13399":"Please tell me.","8223":"Chemistry is strong as well.","13386":"reminding you what science is.","5892":"know about."},"number":{"4341":8,"13399":21,"8223":15,"13386":21,"5892":9},"chunk_id":{"4341":4341,"13399":13399,"8223":8223,"13386":13386,"5892":5892}}
+-------------------------------------------------------------------------------------------------------------------------------------
+tell about chemistry
+User asked this question related to the video chunks you have to tell where and how much content is taught where (in the video at which 
+time stamp) and guide the user to go to that particular video , if user asks unrealted course tell him u can only give answers regarding 
+the data in videos given
