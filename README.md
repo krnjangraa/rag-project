@@ -20,17 +20,12 @@
 1. Clone the repo and create a venv:
    - git clone https://github.com/krnjangraa/rag-project
    - python -m venv venv && source venv/bin/activate
-2. Install dependencies (add `requirements.txt` if not present):
+2. Install dependencies 
    - pip install -r requirements.txt
 3. Process a video:
    - python process_video.py path/to/lecture.mp4
 4. Ask a question:
    - python ask.py --question "What are the main takeaways from the lecture on X?"
 
-## Notes & next steps 🔧
-- Add a `requirements.txt` and usage examples for each script for smoother onboarding.
-- Optionally set up GitHub Actions CI, branch protection, and Dependabot for maintenance.
 
 ---
-
-If you'd like, I can add example usage snippets, a `requirements.txt`, and a CI workflow next—tell me which you prefer and I'll commit them.  
